@@ -1,4 +1,2 @@
-Jarvis( Just A Rather Very Intelligent System ) 
-!. Artifical intelligence based voice assistant.
-2. Developed in Python Programming  Language.
-3. Perform a variety of action after hearing our commands.
+Jarvis( Just A Rather Very Intelligent System )- 
+Artifical intelligence based voice assistant. Developed in Python Programming  Language. Perform a variety of action after hearing our commands. 
